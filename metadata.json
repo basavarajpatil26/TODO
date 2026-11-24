@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Smart Todo List and productivity workspace with full CRUD task management, priority filtering, due-date tracking, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
